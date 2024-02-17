@@ -1,4 +1,7 @@
-### Hi there 👋
+# Halo semua! 
+
+Perkenalkan nama saya **Niken Maharani**.<br>
+Seorang mahasiswi aktif prodi Sistem Informasi Bisnis, Politeknik Negeri Malang.
 
 <!--
 **nikenmn/nikenmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Jika kamu tertarik untuk mengetahui lebih lanjut kegiatan apa saja yang saya lakukan, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/nikenmaharani/)ku ya. 
