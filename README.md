@@ -1,7 +1,7 @@
 # Halo semua! 
 
 Perkenalkan nama saya **Niken Maharani**.<br>
-Seorang mahasiswi aktif prodi Sistem Informasi Bisnis, Politeknik Negeri Malang.
+Seorang mahasiswi aktif prodi Sistem Informasi Bisnis, Politeknik Negeri Malang. <br>
 
 <!--
 **nikenmn/nikenmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,4 +18,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Jika kamu tertarik untuk mengetahui lebih lanjut kegiatan apa saja yang saya lakukan, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/nikenmaharani/)ku ya. 
+Jika kamu tertarik untuk mengetahui lebih lanjut kegiatan apa saja yang saya lakukan, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/nikenmaharani/)ku ya.<br> 
+
+## Github Ststistic
+<p align="left">
+<a href="https://github.com/nikenmn">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
+</a>
+</p>
