@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Jika kamu tertarik untuk mengetahui lebih lanjut kegiatan apa saja yang saya lakukan, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/nikenmaharani/)ku ya.<br> 
+Jika kamu tertarik untuk mengetahui lebih lanjut kegiatan apa saja yang saya lakukan, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/nikenmaharani/) ku ya.<br> 
 
-## Github Ststistic
+## Github Statistic
 <p align="left">
 <a href="https://github.com/nikenmn">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
